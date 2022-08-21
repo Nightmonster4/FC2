@@ -1,0 +1,19 @@
+body{
+    background:linear-gradient(yellow, orange, red ) ;
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
+}
+
+#camera,#result{
+    border: 3px solid black;
+    width:400px;
+    height:350px;
+}
+
+.stylish{
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+}
